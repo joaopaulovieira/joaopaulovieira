@@ -9,11 +9,7 @@
 
 - 🤝 I’m looking for help with [Clappr](https://github.com/clappr/clappr)
 
-- 👨‍💻 All of my projects are available at [https://github.com/joaopaulovieira?tab=repositories](https://github.com/joaopaulovieira?tab=repositories)
-
 - 💬 Ask me about **Anything**
-
-- 📫 How to reach me **vieira.joaopaulo.91@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
