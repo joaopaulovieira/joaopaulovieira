@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
 <h3 align="center">A lazy frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopaulovieira" alt="joaopaulovieira" /> </p>
-
 - 🔭 I’m currently working on [Grupo Globo](https://talentos.globo.com/)
 
 - 🌱 I’m currently learning **Svelte!**
